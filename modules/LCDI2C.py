@@ -1,3 +1,4 @@
+import os
 from machine import Pin, I2C
 
 machine = os.uname().machine
